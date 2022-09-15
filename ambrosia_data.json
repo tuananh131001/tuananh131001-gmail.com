@@ -1,507 +1,2111 @@
 [{
-  "title": "Nhà Hàng Halal 641 Muslim",
+  "title": "Phố ăn Chợ Lớn (Cholon Best Food Town)",
   "subTitle": null,
   "price": null,
   "menu": null,
-  "categoryName": "Halal restaurant",
-  "address": "641 Đ. Nguyễn Trãi, Phường 11, Quận 5, Thành phố Hồ Chí Minh, Vietnam",
+  "categoryName": "Hawker centre",
+  "address": "Vietnam, 2 Phạm Đôn, Phường 10, Quận 5, Thành phố Hồ Chí Minh, Vietnam",
   "locatedIn": null,
-  "neighborhood": "641 Đ. Nguyễn Trãi",
-  "street": "641 Đ. Nguyễn Trãi",
+  "neighborhood": "Vietnam, 2 Phạm Đôn",
+  "street": "Vietnam, 2 Phạm Đôn",
   "city": "Ho Chi Minh City",
   "postalCode": null,
   "state": "District 5, Ho Chi Minh City",
   "countryCode": "VN",
-  "plusCode": "QM37+77 District 5, Ho Chi Minh City, Vietnam",
+  "plusCode": "QM27+C8 District 5, Ho Chi Minh City, Vietnam",
   "website": null,
   "phone": null,
   "temporarilyClosed": false,
   "location": {
-    "lat": 10.7532409,
-    "lng": 106.6632066
-  },
-  "permanentlyClosed": false,
-  "totalScore": 4.5,
-  "isAdvertisement": false,
-  "rank": 40,
-  "placeId": "ChIJeejTSvcudTER0J0VkNG4pT8",
-  "categories": [
-    "Halal restaurant"
-  ],
-  "cid": "4586275005751729616",
-  "url": "https://www.google.com/maps/place/Nha%CC%80+Ha%CC%80ng+Halal+641+Muslim/@10.7532409,106.6632066,17z/data=!3m1!4b1!4m5!3m4!1s0x31752ef74ad3e879:0x3fa5b8d190159dd0!8m2!3d10.7532163!4d106.663211?hl=en",
-  "searchPageUrl": "https://www.google.com/maps/search/restaurant+quan+5/@10.9869489,106.3664539,15z/data=!4m2!2m1!6e5?hl=en",
-  "searchString": "restaurant quan 5",
-  "scrapedAt": "2022-09-15T17:05:18.882Z",
-  "reviewsCount": 52,
-  "reviewsDistribution": {
-    "oneStar": 2,
-    "twoStar": 1,
-    "threeStar": 4,
-    "fourStar": 9,
-    "fiveStar": 36
-  },
-  "reviews": [],
-  "orderBy": []
-},
-{
-  "title": "Deliany Quận 5",
-  "subTitle": null,
-  "price": null,
-  "menu": null,
-  "categoryName": "Fast food restaurant",
-  "address": "33 Nguyễn Tri Phương, Phường 6, Quận 5, Thành phố Hồ Chí Minh 700000, Vietnam",
-  "locatedIn": null,
-  "neighborhood": "33 Nguyễn Tri Phương",
-  "street": "33 Nguyễn Tri Phương",
-  "city": "Ho Chi Minh City",
-  "postalCode": "700000",
-  "state": "District 5, Ho Chi Minh City",
-  "countryCode": "VN",
-  "plusCode": "QM29+MP District 5, Ho Chi Minh City, Vietnam",
-  "website": "https://eats.deliany.co/kitchens/deliany-quan-5",
-  "phone": "+84 1900 088860",
-  "temporarilyClosed": false,
-  "location": {
-    "lat": 10.7516659,
-    "lng": 106.6692729
+    "lat": 10.7510182,
+    "lng": 106.6632793
   },
   "permanentlyClosed": false,
   "totalScore": 4,
   "isAdvertisement": false,
   "rank": 60,
-  "placeId": "ChIJUeX1tRQvdTERv50HbTeVjFo",
+  "placeId": "ChIJBeQUc_cudTERiGuKfsA9jOY",
   "categories": [
-    "Fast food restaurant"
+    "Hawker centre"
   ],
-  "cid": "6524754025437961663",
-  "url": "https://www.google.com/maps/place/Deliany+Qu%E1%BA%ADn+5/@10.7516659,106.6692729,17z/data=!3m1!4b1!4m5!3m4!1s0x31752f14b5f5e551:0x5a8c95376d079dbf!8m2!3d10.7516659!4d106.6692729?hl=en",
-  "searchPageUrl": "https://www.google.com/maps/search/restaurant+quan+5/@10.9869489,106.3664539,15z/data=!4m2!2m1!6e5?hl=en",
+  "cid": "16612721022428933000",
+  "url": "https://www.google.com/maps/place/Ph%E1%BB%91+%C4%83n+Ch%E1%BB%A3+L%E1%BB%9Bn+(Cholon+Best+Food+Town)/@10.7510182,106.6632793,17z/data=!3m1!4b1!4m5!3m4!1s0x31752ef77314e405:0xe68c3dc07e8a6b88!8m2!3d10.7510182!4d106.6632793?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurant+quan+5/@10.9869489,106.4007098,15z/data=!4m2!2m1!6e5?hl=en",
   "searchString": "restaurant quan 5",
-  "scrapedAt": "2022-09-15T17:05:37.252Z",
-  "reviewsCount": 1,
-  "reviewsDistribution": {
-    "oneStar": 0,
-    "twoStar": 0,
-    "threeStar": 0,
-    "fourStar": 1,
-    "fiveStar": 0
+  "scrapedAt": "2022-09-15T17:11:31.422Z",
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 97
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "We": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 19
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ]
   },
+  "openingHours": [
+    {
+      "day": "Friday,",
+      "hours": "8AM to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "8AM to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "8AM to 9PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "8AM to 9PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "8AM to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "8AM to 9PM"
+    },
+    {
+      "day": "Thursday,",
+      "hours": "8AM to 9PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Lunch": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ]
+  },
+  "reviewsCount": 222,
+  "reviewsDistribution": {
+    "oneStar": 11,
+    "twoStar": 11,
+    "threeStar": 45,
+    "fourStar": 44,
+    "fiveStar": 111
+  },
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOR20CLmzBZUDwViuWsh6S5-QgZJAkz-gUjv3Nt=w1920-h1080-k-no"
+  ],
   "reviews": [],
   "orderBy": []
 },
 {
-  "title": "Q-Mama Buffet Beer BBQ",
+  "title": "Quán Sài Gòn 938 小美歺店",
   "subTitle": null,
   "price": "$$",
   "menu": null,
-  "categoryName": "Restaurant",
-  "address": "635a Đ. Nguyễn Trãi, Phường 11, Quận 5, Thành phố Hồ Chí Minh, Vietnam",
+  "categoryName": "Chinese restaurant",
+  "address": "938 Đ. Trần Hưng Đạo, Phường 7, Quận 5, Thành phố Hồ Chí Minh, Vietnam",
   "locatedIn": null,
-  "neighborhood": "635a Đ. Nguyễn Trãi",
-  "street": "635a Đ. Nguyễn Trãi",
+  "neighborhood": "938 Đ. Trần Hưng Đạo",
+  "street": "938 Đ. Trần Hưng Đạo",
   "city": "Ho Chi Minh City",
   "postalCode": null,
   "state": "District 5, Ho Chi Minh City",
   "countryCode": "VN",
-  "plusCode": "QM37+CX District 5, Ho Chi Minh City, Vietnam",
+  "plusCode": "QM3F+87 District 5, Ho Chi Minh City, Vietnam",
   "website": null,
-  "phone": "+84 91 810 11 01",
+  "phone": "+84 28 3923 4671",
   "temporarilyClosed": false,
   "location": {
-    "lat": 10.7535899,
-    "lng": 106.6649792
+    "lat": 10.7533533,
+    "lng": 106.6731791
   },
   "permanentlyClosed": false,
-  "totalScore": 3.7,
+  "totalScore": 4.1,
   "isAdvertisement": false,
-  "rank": 100,
-  "placeId": "ChIJMdC1BvoudTERXmuYVC-QL7o",
+  "rank": 59,
+  "placeId": "ChIJYRe0MvwudTERRL2g7ZPKjV4",
   "categories": [
-    "Restaurant"
-  ],
-  "cid": "13416100347917134686",
-  "url": "https://www.google.com/maps/place/Q-Mama+Buffet+Beer+BBQ/@10.7535899,106.6649792,17z/data=!3m1!4b1!4m5!3m4!1s0x31752efa06b5d031:0xba2f902f54986b5e!8m2!3d10.7535899!4d106.6649792?hl=en",
-  "searchPageUrl": "https://www.google.com/maps/search/restaurant+quan+5/@10.9869489,106.3664539,15z/data=!4m2!2m1!6e5?hl=en",
-  "searchString": "restaurant quan 5",
-  "scrapedAt": "2022-09-15T17:06:11.905Z",
-  "reviewsCount": 589,
-  "reviewsDistribution": {
-    "oneStar": 71,
-    "twoStar": 44,
-    "threeStar": 117,
-    "fourStar": 130,
-    "fiveStar": 227
-  },
-  "reviews": [],
-  "orderBy": []
-},
-{
-  "title": "Haidilao Hung Vuong Plaza",
-  "subTitle": null,
-  "price": "$$",
-  "menu": null,
-  "categoryName": "Hot pot restaurant",
-  "address": "126 Hồng Bàng, Phường 12, Quận 5, Thành phố Hồ Chí Minh 70000, Vietnam",
-  "locatedIn": "Hùng Vương Plaza",
-  "neighborhood": "126 Hồng Bàng",
-  "street": "126 Hồng Bàng",
-  "city": "Ho Chi Minh City",
-  "postalCode": "70000",
-  "state": "District 5, Ho Chi Minh City",
-  "countryCode": "VN",
-  "plusCode": "QM47+C4 District 5, Ho Chi Minh City, Vietnam",
-  "website": "https://haidilaovietnam.com/",
-  "phone": "+84 865 795 099",
-  "temporarilyClosed": false,
-  "location": {
-    "lat": 10.7560029,
-    "lng": 106.6628389
-  },
-  "permanentlyClosed": false,
-  "totalScore": 4.4,
-  "isAdvertisement": false,
-  "rank": 99,
-  "placeId": "ChIJM3b9qmAvdTERTa-zqlJ4GzU",
-  "categories": [
-    "Hot pot restaurant",
     "Chinese restaurant"
   ],
-  "cid": "3826784604827922253",
-  "url": "https://www.google.com/maps/place/Haidilao+Hung+Vuong+Plaza/@10.7560029,106.6628389,17z/data=!3m1!4b1!4m5!3m4!1s0x31752f60aafd7633:0x351b7852aab3af4d!8m2!3d10.7560029!4d106.6628389?hl=en",
-  "searchPageUrl": "https://www.google.com/maps/search/restaurant+quan+5/@10.9869489,106.3664539,15z/data=!4m2!2m1!6e5?hl=en",
+  "cid": "6813324547977166148",
+  "url": "https://www.google.com/maps/place/Qu%C3%A1n+S%C3%A0i+G%C3%B2n+938+%E5%B0%8F%E7%BE%8E%E6%AD%BA%E5%BA%97/@10.7533533,106.6731791,17z/data=!3m1!4b1!4m5!3m4!1s0x31752efc32b41761:0x5e8dca93eda0bd44!8m2!3d10.7533651!4d106.6731765?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurant+quan+5/@10.9869489,106.4007098,15z/data=!4m2!2m1!6e5?hl=en",
   "searchString": "restaurant quan 5",
-  "scrapedAt": "2022-09-15T17:06:17.676Z",
-  "reviewsCount": 409,
-  "reviewsDistribution": {
-    "oneStar": 24,
-    "twoStar": 3,
-    "threeStar": 28,
-    "fourStar": 90,
-    "fiveStar": 264
+  "scrapedAt": "2022-09-15T17:11:49.116Z",
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 91
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 92
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 1
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 3
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 19
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 19
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 19
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 19
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 4
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      }
+    ],
+    "We": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 3
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 3
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 1
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 19
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 4
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 96
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 91
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      }
+    ]
   },
+  "openingHours": [
+    {
+      "day": "Friday,",
+      "hours": "6:30AM to 10PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "6:30AM to 10PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "6:30AM to 10PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "6:30AM to 9PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "6:30AM to 10PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "6:30AM to 10PM"
+    },
+    {
+      "day": "Thursday,",
+      "hours": "6:30AM to 10PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": false
+      },
+      {
+        "Wheelchair accessible parking lot": false
+      },
+      {
+        "Wheelchair accessible seating": false
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Small plates": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Dessert": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Good for kids": true
+      },
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      }
+    ]
+  },
+  "reviewsCount": 255,
+  "reviewsDistribution": {
+    "oneStar": 9,
+    "twoStar": 12,
+    "threeStar": 49,
+    "fourStar": 69,
+    "fiveStar": 116
+  },
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOEKKKvMnICFuveEGnyZjfa7z5-auRVvNF34F2d=w1920-h1080-k-no"
+  ],
   "reviews": [],
   "orderBy": []
 },
 {
-  "title": "cháo dinh dưỡng quận 5",
-  "subTitle": null,
-  "price": "$",
+  "title": "Sun and Moon Cafe",
+  "subTitle": "Cà phê Nhật Nguyệt",
+  "price": "$$",
   "menu": null,
-  "categoryName": "Porridge restaurant",
-  "address": "44 Trần Bình Trọng, Phường 1, Quận 5, Thành phố Hồ Chí Minh, Vietnam",
+  "categoryName": "Cafe",
+  "address": "905 Đ. Trần Hưng Đạo, Phường 1, Quận 5, Thành phố Hồ Chí Minh, Vietnam",
   "locatedIn": null,
-  "neighborhood": "44 Trần Bình Trọng",
-  "street": "44 Trần Bình Trọng",
+  "neighborhood": "905 Đ. Trần Hưng Đạo",
+  "street": "905 Đ. Trần Hưng Đạo",
   "city": "Ho Chi Minh City",
   "postalCode": null,
   "state": "District 5, Ho Chi Minh City",
   "countryCode": "VN",
-  "plusCode": "QM3J+FR District 5, Ho Chi Minh City, Vietnam",
-  "website": null,
-  "phone": "+84 28 3923 6804",
+  "plusCode": "QM3H+RM District 5, Ho Chi Minh City, Vietnam",
+  "website": "https://www.foody.vn/ho-chi-minh/nhat-nguyet-garden-cafe",
+  "phone": "+84 28 3838 4242",
   "temporarilyClosed": false,
   "location": {
-    "lat": 10.7537265,
-    "lng": 106.682121
+    "lat": 10.7546119,
+    "lng": 106.6791382
   },
   "permanentlyClosed": false,
-  "totalScore": 4.7,
+  "totalScore": 4.1,
   "isAdvertisement": false,
-  "rank": 98,
-  "placeId": "ChIJ5ydrEqovdTERY5P2Xxp1Zss",
+  "rank": 58,
+  "placeId": "ChIJ50Q6WgIvdTERH2o_RrfPsc0",
   "categories": [
-    "Porridge restaurant"
+    "Cafe"
   ],
-  "cid": "14656530793463452515",
-  "url": "https://www.google.com/maps/place/ch%C3%A1o+dinh+d%C6%B0%E1%BB%A1ng+qu%E1%BA%ADn+5/@10.7537265,106.682121,17z/data=!3m1!4b1!4m5!3m4!1s0x31752faa126b27e7:0xcb66751a5ff69363!8m2!3d10.7537254!4d106.6820987?hl=en",
-  "searchPageUrl": "https://www.google.com/maps/search/restaurant+quan+5/@10.9869489,106.3664539,15z/data=!4m2!2m1!6e5?hl=en",
+  "cid": "14821856234717538847",
+  "url": "https://www.google.com/maps/place/Sun+and+Moon+Cafe/@10.7546119,106.6791382,17z/data=!3m1!4b1!4m5!3m4!1s0x31752f025a3a44e7:0xcdb1cfb7463f6a1f!8m2!3d10.7546119!4d106.6791382?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurant+quan+5/@10.9869489,106.4007098,15z/data=!4m2!2m1!6e5?hl=en",
   "searchString": "restaurant quan 5",
-  "scrapedAt": "2022-09-15T17:06:23.279Z",
-  "reviewsCount": 28,
-  "reviewsDistribution": {
-    "oneStar": 1,
-    "twoStar": 0,
-    "threeStar": 1,
-    "fourStar": 2,
-    "fiveStar": 24
+  "scrapedAt": "2022-09-15T17:11:53.776Z",
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 91
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 53
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      }
+    ],
+    "We": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 1
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 2
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 5,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 2
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 53
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      }
+    ]
   },
+  "openingHours": [
+    {
+      "day": "Friday,",
+      "hours": "6:30AM to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "6:30AM to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "6:30AM to 9PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "6:30AM to 9PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "6:30AM to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "6:30AM to 9PM"
+    },
+    {
+      "day": "Thursday,",
+      "hours": "6:30AM to 9PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Sports": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": false
+      },
+      {
+        "Wheelchair accessible parking lot": false
+      },
+      {
+        "Wheelchair accessible restroom": false
+      },
+      {
+        "Wheelchair accessible seating": false
+      }
+    ],
+    "Offerings": [
+      {
+        "Coffee": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Dessert": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Good for kids": true
+      },
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ]
+  },
+  "reviewsCount": 2567,
+  "reviewsDistribution": {
+    "oneStar": 90,
+    "twoStar": 73,
+    "threeStar": 419,
+    "fourStar": 820,
+    "fiveStar": 1165
+  },
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPqLA98qzSX0Ey5Z4xFytl6L1K6o9xdIxr2Mvxg=w1920-h1080-k-no"
+  ],
   "reviews": [],
   "orderBy": []
 },
 {
-  "title": "Buffet Tokpokki",
+  "title": "Lẩu gà lá é Tao Ngộ - Chicken La-E quận 5",
   "subTitle": null,
   "price": null,
   "menu": null,
-  "categoryName": "Korean restaurant",
-  "address": "126 Đ. Hùng Vương, Phường 12, Quận 5, Thành phố Hồ Chí Minh, Vietnam",
-  "locatedIn": "Skinfood",
-  "neighborhood": "126 Đ. Hùng Vương",
-  "street": "126 Đ. Hùng Vương",
-  "city": "Ho Chi Minh City",
-  "postalCode": null,
-  "state": "District 5, Ho Chi Minh City",
-  "countryCode": "VN",
-  "plusCode": "QM46+HX District 5, Ho Chi Minh City, Vietnam",
-  "website": null,
-  "phone": null,
-  "temporarilyClosed": false,
-  "location": {
-    "lat": 10.7563979,
-    "lng": 106.6624247
-  },
-  "permanentlyClosed": false,
-  "totalScore": 1.3,
-  "isAdvertisement": false,
-  "rank": 97,
-  "placeId": "ChIJOW_vWvAudTERgYQPCXQrYUs",
-  "categories": [
-    "Korean restaurant"
-  ],
-  "cid": "5431670402953741441",
-  "url": "https://www.google.com/maps/place/Buffet+Tokpokki/@10.7563979,106.6624247,17z/data=!3m1!4b1!4m5!3m4!1s0x31752ef05aef6f39:0x4b612b74090f8481!8m2!3d10.756506!4d106.6623924?hl=en",
-  "searchPageUrl": "https://www.google.com/maps/search/restaurant+quan+5/@10.9869489,106.3664539,15z/data=!4m2!2m1!6e5?hl=en",
-  "searchString": "restaurant quan 5",
-  "scrapedAt": "2022-09-15T17:06:31.717Z",
-  "reviewsCount": 35,
-  "reviewsDistribution": {
-    "oneStar": 32,
-    "twoStar": 0,
-    "threeStar": 1,
-    "fourStar": 0,
-    "fiveStar": 2
-  },
-  "reviews": [],
-  "orderBy": []
-},
-{
-  "title": "Quán cơm gà",
-  "subTitle": null,
-  "price": null,
-  "menu": null,
-  "categoryName": "Restaurant",
-  "address": "196 Đ. Hải Thượng Lãn Ông, Phường 14, Quận 5, Thành phố Hồ Chí Minh, Vietnam",
+  "categoryName": "Family restaurant",
+  "address": "509 Đ. Nguyễn Trãi, Phường 7, Quận 5, Thành phố Hồ Chí Minh, Vietnam",
   "locatedIn": null,
-  "neighborhood": "196 Đ. Hải Thượng Lãn Ông",
-  "street": "196 Đ. Hải Thượng Lãn Ông",
+  "neighborhood": "509 Đ. Nguyễn Trãi",
+  "street": "509 Đ. Nguyễn Trãi",
   "city": "Ho Chi Minh City",
   "postalCode": null,
   "state": "District 5, Ho Chi Minh City",
   "countryCode": "VN",
-  "plusCode": "QM25+9F District 5, Ho Chi Minh City, Vietnam",
-  "website": null,
-  "phone": null,
+  "plusCode": "QM39+PP District 5, Ho Chi Minh City, Vietnam",
+  "website": "https://chickenla-e.vn/",
+  "phone": "+84 96 951 21 25",
   "temporarilyClosed": false,
   "location": {
-    "lat": 10.7509737,
-    "lng": 106.6586983
+    "lat": 10.75435,
+    "lng": 106.6692564
   },
   "permanentlyClosed": false,
-  "totalScore": 4.3,
+  "totalScore": 4.9,
   "isAdvertisement": false,
-  "rank": 120,
-  "placeId": "ChIJCYn1gvYudTEROjHmaQ1ejEA",
+  "rank": 80,
+  "placeId": "ChIJPRzt_YwvdTERDbDGKMFfNTc",
   "categories": [
-    "Restaurant"
+    "Family restaurant"
   ],
-  "cid": "4651195926871159098",
-  "url": "https://www.google.com/maps/place/Qu%C3%A1n+c%C6%A1m+g%C3%A0/@10.7509737,106.6586983,17z/data=!3m1!4b1!4m5!3m4!1s0x31752ef682f58909:0x408c5e0d69e6313a!8m2!3d10.7509774!4d106.6586984?hl=en",
-  "searchPageUrl": "https://www.google.com/maps/search/restaurant+quan+5/@10.9869489,106.3664539,15z/data=!4m2!2m1!6e5?hl=en",
+  "cid": "3978191129069137933",
+  "url": "https://www.google.com/maps/place/L%E1%BA%A9u+g%C3%A0+l%C3%A1+%C3%A9+Tao+Ng%E1%BB%99+-+Chicken+La-E+qu%E1%BA%ADn+5/@10.75435,106.6692564,17z/data=!3m1!4b1!4m5!3m4!1s0x31752f8cfded1c3d:0x37355fc128c6b00d!8m2!3d10.7544168!4d106.6692471?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurant+quan+5/@10.9869489,106.4007098,15z/data=!4m2!2m1!6e5?hl=en",
   "searchString": "restaurant quan 5",
-  "scrapedAt": "2022-09-15T17:06:33.457Z",
-  "reviewsCount": 59,
-  "reviewsDistribution": {
-    "oneStar": 3,
-    "twoStar": 0,
-    "threeStar": 7,
-    "fourStar": 14,
-    "fiveStar": 35
-  },
-  "reviews": [],
-  "orderBy": []
-},
-{
-  "title": "Bánh Trứng Vẽ Hình Chị Phương",
-  "subTitle": null,
-  "price": null,
-  "menu": null,
-  "categoryName": "Restaurant",
-  "address": "639 Đ. Nguyễn Trãi, Phường 11, Quận 5, Thành phố Hồ Chí Minh, Vietnam",
-  "locatedIn": null,
-  "neighborhood": "639 Đ. Nguyễn Trãi",
-  "street": "639 Đ. Nguyễn Trãi",
-  "city": "Ho Chi Minh City",
-  "postalCode": null,
-  "state": "District 5, Ho Chi Minh City",
-  "countryCode": "VN",
-  "plusCode": "QM37+7C District 5, Ho Chi Minh City, Vietnam",
-  "website": null,
-  "phone": "+84 90 630 02 63",
-  "temporarilyClosed": false,
-  "location": {
-    "lat": 10.7531988,
-    "lng": 106.6635902
-  },
-  "permanentlyClosed": false,
-  "totalScore": 5,
-  "isAdvertisement": false,
-  "rank": 119,
-  "placeId": "ChIJm6NkUvcudTER3CIhsFtk3Mc",
-  "categories": [
-    "Restaurant"
+  "scrapedAt": "2022-09-15T17:12:03.676Z",
+  "openingHours": [
+    {
+      "day": "Friday,",
+      "hours": "9AM to 9:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 9:30PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "9AM to 9:30PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 9:30PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 9:30PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 9:30PM"
+    },
+    {
+      "day": "Thursday,",
+      "hours": "9AM to 9:30PM"
+    }
   ],
-  "cid": "14401496053383766748",
-  "url": "https://www.google.com/maps/place/B%C3%A1nh+Tr%E1%BB%A9ng+V%E1%BA%BD+H%C3%ACnh+Ch%E1%BB%8B+Ph%C6%B0%C6%A1ng/@10.7531988,106.6635902,17z/data=!3m1!4b1!4m5!3m4!1s0x31752ef75264a39b:0xc7dc645bb02122dc!8m2!3d10.7532792!4d106.6635758?hl=en",
-  "searchPageUrl": "https://www.google.com/maps/search/restaurant+quan+5/@10.9869489,106.3664539,15z/data=!4m2!2m1!6e5?hl=en",
-  "searchString": "restaurant quan 5",
-  "scrapedAt": "2022-09-15T17:06:41.057Z",
-  "reviewsCount": 1,
-  "reviewsDistribution": {
-    "oneStar": 0,
-    "twoStar": 0,
-    "threeStar": 0,
-    "fourStar": 0,
-    "fiveStar": 1
+  "peopleAlsoSearch": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      }
+    ]
   },
-  "reviews": [],
-  "orderBy": []
-},
-{
-  "title": "Bánh mì An An 2",
-  "subTitle": null,
-  "price": null,
-  "menu": null,
-  "categoryName": "Fast food restaurant",
-  "address": "204 Trần Hưng Đạo B, Phường 10, Quận 5, Thành phố Hồ Chí Minh, Vietnam",
-  "locatedIn": null,
-  "neighborhood": "204 Trần Hưng Đạo B",
-  "street": "204 Trần Hưng Đạo B",
-  "city": "Ho Chi Minh City",
-  "postalCode": null,
-  "state": "District 5, Ho Chi Minh City",
-  "countryCode": "VN",
-  "plusCode": "QM38+2G District 5, Ho Chi Minh City, Vietnam",
-  "website": null,
-  "phone": "+84 93 868 88 22",
-  "temporarilyClosed": false,
-  "location": {
-    "lat": 10.7525052,
-    "lng": 106.6663524
-  },
-  "permanentlyClosed": false,
-  "totalScore": 5,
-  "isAdvertisement": false,
-  "rank": 118,
-  "placeId": "ChIJiYevtGkvdTERcEObKZscfbY",
-  "categories": [
-    "Fast food restaurant"
-  ],
-  "cid": "13149697939735266160",
-  "url": "https://www.google.com/maps/place/B%C3%A1nh+m%C3%AC+An+An+2/@10.7525052,106.6663524,17z/data=!3m1!4b1!4m5!3m4!1s0x31752f69b4af8789:0xb67d1c9b299b4370!8m2!3d10.7525081!4d106.6663521?hl=en",
-  "searchPageUrl": "https://www.google.com/maps/search/restaurant+quan+5/@10.9869489,106.3664539,15z/data=!4m2!2m1!6e5?hl=en",
-  "searchString": "restaurant quan 5",
-  "scrapedAt": "2022-09-15T17:06:48.690Z",
-  "reviewsCount": 1,
-  "reviewsDistribution": {
-    "oneStar": 0,
-    "twoStar": 0,
-    "threeStar": 0,
-    "fourStar": 0,
-    "fiveStar": 1
-  },
-  "reviews": [],
-  "orderBy": []
-},
-{
-  "title": "Phở Cường Ký",
-  "subTitle": null,
-  "price": null,
-  "menu": null,
-  "categoryName": "Pho restaurant",
-  "address": "51 Tản Đà, Phường 10, Quận 5, Thành phố Hồ Chí Minh, Vietnam",
-  "locatedIn": null,
-  "neighborhood": "51 Tản Đà",
-  "street": "51 Tản Đà",
-  "city": "Ho Chi Minh City",
-  "postalCode": null,
-  "state": "District 5, Ho Chi Minh City",
-  "countryCode": "VN",
-  "plusCode": "QM27+MP District 5, Ho Chi Minh City, Vietnam",
-  "website": null,
-  "phone": "+84 90 923 16 82",
-  "temporarilyClosed": false,
-  "location": {
-    "lat": 10.7517224,
-    "lng": 106.6642961
-  },
-  "permanentlyClosed": false,
-  "totalScore": 4.7,
-  "isAdvertisement": false,
-  "rank": 117,
-  "placeId": "ChIJm8XLK2wvdTERNpOelvIOq-I",
-  "categories": [
-    "Pho restaurant"
-  ],
-  "cid": "16333164908661084982",
-  "url": "https://www.google.com/maps/place/Ph%E1%BB%9F+C%C6%B0%E1%BB%9Dng+K%C3%BD/@10.7517224,106.6642961,17z/data=!3m1!4b1!4m5!3m4!1s0x31752f6c2bcbc59b:0xe2ab0ef2969e9336!8m2!3d10.7517461!4d106.6643909?hl=en",
-  "searchPageUrl": "https://www.google.com/maps/search/restaurant+quan+5/@10.9869489,106.3664539,15z/data=!4m2!2m1!6e5?hl=en",
-  "searchString": "restaurant quan 5",
-  "scrapedAt": "2022-09-15T17:06:56.075Z",
-  "reviewsCount": 3,
+  "reviewsCount": 8,
   "reviewsDistribution": {
     "oneStar": 0,
     "twoStar": 0,
     "threeStar": 0,
     "fourStar": 1,
-    "fiveStar": 2
+    "fiveStar": 7
   },
-  "reviews": [],
-  "orderBy": []
-},
-{
-  "title": "The Adora",
-  "subTitle": null,
-  "price": null,
-  "menu": null,
-  "categoryName": "Restaurant",
-  "address": "104 Đ. Hùng Vương, Phường 9, Quận 5, Thành phố Hồ Chí Minh, Vietnam",
-  "locatedIn": null,
-  "neighborhood": "104 Đ. Hùng Vương",
-  "street": "104 Đ. Hùng Vương",
-  "city": "Ho Chi Minh City",
-  "postalCode": null,
-  "state": "District 5, Ho Chi Minh City",
-  "countryCode": "VN",
-  "plusCode": "QM49+XF District 5, Ho Chi Minh City, Vietnam",
-  "website": null,
-  "phone": null,
-  "temporarilyClosed": true,
-  "location": {
-    "lat": 10.7574863,
-    "lng": 106.6686974
-  },
-  "permanentlyClosed": false,
-  "totalScore": null,
-  "isAdvertisement": false,
-  "rank": 116,
-  "placeId": "ChIJEx_QOfsudTEReDoD_1PjrsA",
-  "categories": [
-    "Restaurant"
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPXRfft7hk8RM875LgONpAQ54GWlqlRGu-HKbTy=w1920-h1080-k-no"
   ],
-  "cid": "13884284651130010232",
-  "url": "https://www.google.com/maps/place/The+Adora/@10.7574863,106.6686974,17z/data=!3m1!4b1!4m5!3m4!1s0x31752efb39d01f13:0xc0aee353ff033a78!8m2!3d10.7574863!4d106.6686974?hl=en",
-  "searchPageUrl": "https://www.google.com/maps/search/restaurant+quan+5/@10.9869489,106.3664539,15z/data=!4m2!2m1!6e5?hl=en",
-  "searchString": "restaurant quan 5",
-  "scrapedAt": "2022-09-15T17:07:02.620Z",
-  "reviewsCount": 0,
-  "reviewsDistribution": {
-    "oneStar": 0,
-    "twoStar": 0,
-    "threeStar": 0,
-    "fourStar": 0,
-    "fiveStar": 0
-  },
   "reviews": [],
   "orderBy": []
 }]
